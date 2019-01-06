@@ -1,0 +1,11 @@
+{
+  "main.js": "/rtsk-counter-example/static/js/main.99e486a1.chunk.js",
+  "main.js.map": "/rtsk-counter-example/static/js/main.99e486a1.chunk.js.map",
+  "static/js/1.66d88d57.chunk.js": "/rtsk-counter-example/static/js/1.66d88d57.chunk.js",
+  "static/js/1.66d88d57.chunk.js.map": "/rtsk-counter-example/static/js/1.66d88d57.chunk.js.map",
+  "runtime~main.js": "/rtsk-counter-example/static/js/runtime~main.fb1edaa9.js",
+  "runtime~main.js.map": "/rtsk-counter-example/static/js/runtime~main.fb1edaa9.js.map",
+  "index.html": "/rtsk-counter-example/index.html",
+  "precache-manifest.062b30e7e5cc162ef0525ad8f8d09a7e.js": "/rtsk-counter-example/precache-manifest.062b30e7e5cc162ef0525ad8f8d09a7e.js",
+  "service-worker.js": "/rtsk-counter-example/service-worker.js"
+}
